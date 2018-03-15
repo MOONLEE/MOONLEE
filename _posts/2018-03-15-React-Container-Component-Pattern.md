@@ -3,6 +3,7 @@ layout: post
 title:  "리액트 Container Component Pattern"
 date:   2018-03-15 11:24:21 +0900
 categories: React
+comments: true
 ---
 
 # Container와 Component의 구분을 어떻게 해야지?
