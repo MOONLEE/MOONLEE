@@ -24,4 +24,7 @@ pagination:
   enabled: true
 
 
-
+# Navigation
+navigation:
+ - title: React
+   url: /React
