@@ -27,7 +27,7 @@ Request를 Container에서 해주어야 합니다.
 참고 : [learnreact][learnreact]의 [Container Components 포스팅][Container-Components]
 
 
-* 좀 더 좋은 포스팅을 위해 잘못된 부분이 있다는 것을 알려주시면 정말 좋아요!
+* 좀 더 좋은 포스팅을 위해 잘못된 부분이 있다는 것을 알려주시면 정말 좋아요!!
 
 [learnreact]: https://medium.com/@learnreact
 [Container-Components]: https://medium.com/@learnreact/container-components-c0e67432e005
