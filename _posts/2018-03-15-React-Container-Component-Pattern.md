@@ -5,9 +5,6 @@ date:   2018-03-15 11:24:21 +0900
 categories: React
 ---
 
-##React Container Component 패턴
-
-
 #Container와 Component의 구분을 어떻게 해야지?
 React를 접하게 되면서 React 파일 구조를 보면 "Container" 디렉토리와 "Component" 디렉토리로 나누어 리액트를 구성하게 됩니다.
 처음 이 구성을 접사면서 들었던 의문은 왜 Container와 Component의 기준이 무엇이가였습니다.
