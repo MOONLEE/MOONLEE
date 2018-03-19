@@ -24,7 +24,10 @@ comments: true
 
 
 <div id="content" class="container post" role="main">
-  <div id="post-content">{{ content }}</div>
+    <div id="post-content">
+    {{ content }}
+    {% include comments.html %}
+    </div>
 </div>
 
 
