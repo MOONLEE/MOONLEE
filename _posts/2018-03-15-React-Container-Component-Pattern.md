@@ -2,7 +2,8 @@
 layout: post
 title:  "리액트 Container Component Pattern"
 date:   2018-03-15 11:24:21 +0900
-categories: React
+categories: blog
+tags: [blog, react]
 comments: true
 ---
 
