@@ -2,7 +2,7 @@
 layout: default
 ---
 <div id="cover" class="container-fluid"
-{% if site.image %}style="background-image:url({{ site.image }});"{% endif %}>
+{% if site.image %}style="background-image:url({{ page.image }});"{% endif %}>
     <div>
         <h1>{{ site.title }} && 기술블로그 </h1>
         <p>{{ site.description | newline_to_br }}</p>
