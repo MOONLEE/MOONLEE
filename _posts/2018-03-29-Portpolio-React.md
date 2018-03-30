@@ -9,13 +9,17 @@ comments: true
 
 # React Blog 
 리액트를 이용한 블로그 입니다.
+개별 블로그를 생성하여 포스팅을 할 수 있습니다.
+현재는 CODE404 Study 회원들에게만 허용한 블로그입니다.
 
 # Tech
 React, SpringBoot, JPA, MySql mongoDB
 
 
-링크 : [React Blog][reactBlog]
+## 연결 : [React Blog][reactBlog]
 
+
+* 연결을 눌러서 확인하세요
 
 
 [reactBlog]: http://52.78.43.33:8080/
