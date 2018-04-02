@@ -20,4 +20,4 @@ React, SpringBoot, JPA, MySql mongoDB
 
 * 연결을 눌러서 확인하세요
 
-[reactBlog]: https://moonlee.github.io/2018/03/29/Portpolio-React_redirect.html
+[reactBlog]: https://moonlee.github.io/blog/2018/03/29/Portpolio-React_redirect.html
