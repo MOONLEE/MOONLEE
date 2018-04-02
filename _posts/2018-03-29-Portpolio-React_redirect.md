@@ -16,7 +16,7 @@ comments: true
 React, SpringBoot, JPA, MySql mongoDB
 
 
-## 연결 : [React Blog][reactBlog]
+## [연결 : React Blog][reactBlog]
 
 
 * 연결을 눌러서 확인하세요
