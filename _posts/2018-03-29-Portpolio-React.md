@@ -16,10 +16,8 @@ comments: true
 React, SpringBoot, JPA, MySql mongoDB
 
 
-## 연결 : [React Blog][reactBlog]
-
+## [연결 : React Blog][reactBlog]
 
 * 연결을 눌러서 확인하세요
 
-
-[reactBlog]: http://52.78.43.33:8080/
+[reactBlog]: https://moonlee.github.io/2018/03/29/Portpolio-React_redirect.html
